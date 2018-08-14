@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="225dp"
+    android:layout_marginHorizontal="2dp"
+    android:layout_marginVertical="2dp">
+
+    <RelativeLayout
+        android:id="@+id/card_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dimen_card_padding"
+        android:orientation="horizontal"
+
+        >
+
+        <ImageView
+            android:id="@+id/movie_poster"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/dimen_horizontal_margin"
+            android:contentDescription="@string/thumbnail"
+            android:src="@mipmap/ic_launcher" />
+
+
+        <LinearLayout
+
+            android:id="@+id/information"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_toRightOf="@id/movie_poster"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/movie_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/title"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/movie_remarks"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="2dp"
+                android:text="@string/remarks" />
+
+            <TextView
+                android:id="@+id/movie_date_time"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:text="@string/date_and_time" />
+
+        </LinearLayout>
+
+        <Button
+
+            android:id="@+id/btn_more"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:backgroundTint="@color/colorPrimary"
+            android:text="@string/more"
+            android:textColor="@android:color/white" />
+
+        <Button
+
+            android:id="@+id/btn_Delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_toLeftOf="@id/btn_more"
+            android:backgroundTint="@color/colorPrimary"
+            android:text="@string/delete"
+            android:textColor="@android:color/white" />
+
+
+    </RelativeLayout>
+
+
+</android.support.v7.widget.CardView>

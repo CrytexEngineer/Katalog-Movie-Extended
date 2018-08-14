@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Katalog Film </string>
+    <string name="description">Deskripsi</string>
+    <string name="API_KEY">9b5e5deb5d1e9395b242bd19ba0d7d50</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="remarks">Ringkasan</string>
+    <string name="title">Judul</string>
+    <string name="poster">Poster</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="now_playing">DIPUTAR</string>
+    <string name="favorites">SUKA</string>
+    <string name="search">CARI</string>
+    <string name="change_leanguae">Ganti Bahasa</string>
+    <string name="more">Selengkapnya</string>
+    <string name="delete">HAPUS</string>
+    <string name="favorite"> SUKA</string>
+    <string name="up_coming">SELANJUTNYA</string>
+    <string name="enable_daily_reminder">Nyalakan Pengingat Harian</string>
+    <string name="enable_release_today_notification">Nyalakan Pemberitahuan Rilis Film</string>
+    <string name="notify_reminder_title">Kami Sangat Merindukan Anda </string>
+    <string name="notify_reminder_message">Lihat Informasi Terkini Sekarang Juga!</string>
+    <string name="cancel_reminder">Pemberitahuan Dibatalkan</string>
+    <string name="enable_notification">Pemberitahuan Dinyalakan</string>
+    <string name="enable_reminder">Pengingat Dinyalakan</string>
+    <string name="release_notification_title">Rilis Hari Ini</string>
+    <string name="cancel">Batalkan</string>
+    <string name="cancel_notification">Pemberitahuan dibatalkan</string>
+    <string name="restrict_add_movie">Film Sudah Ada</string>
+    <string name="success_add_movie">Berhasil Ditambahkan</string>
+    <string name="settings">Pengaturan</string>
+    <string name="setting_language">Bahasa</string>
+    <string name="title_notification">Pemberitahuan</string>
+
+
+</resources>

@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Katalog Film UI/UX</string>
+    <string name="description">description</string>
+    <string name="API_KEY">9b5e5deb5d1e9395b242bd19ba0d7d50</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="remarks">Remarks</string>
+    <string name="title">Title</string>
+    <string name="poster">Poster</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="now_playing">NOW PLAYING</string>
+    <string name="favorites">FAVORITE</string>
+    <string name="search">SEARCH</string>
+    <string name="change_leanguae">Change Language</string>
+    <string name="more">More</string>
+    <string name="delete">DELETE</string>
+    <string name="favorite">FAVORITES</string>
+    <string name="up_coming">UP COMING</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="favorite_movies">FAVORITES </string>
+    <string name="no_data">No Data</string>
+    <string name="title_activity_main2">Movie Calalogue</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="enable_daily_reminder">Enable Daily Reminder</string>
+    <string name="enable_release_today_notification">Enable Release Today Notification</string>
+    <string name="notify_reminder_title">We Missing You , So Badly</string>
+    <string name="notify_reminder_message">Check Lastest Information Today!</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_reminder">Reminder Cancelled</string>
+    <string name="enable_notification">Notification Enabled</string>
+    <string name="enable_reminder">Reminder Enabled</string>
+    <string name="release_notification_title">Release Today</string>
+    <string name="cancel_notification">Notification Cancelled</string>
+    <string name="restrict_add_movie">ITEM ALREADY ADDED</string>
+    <string name="success_add_movie">Added To Favorites</string>
+    <string name="settings">Settings</string>
+    <string name="setting_language">Language</string>
+    <string name="title_notification">Notification</string>
+
+
+</resources>

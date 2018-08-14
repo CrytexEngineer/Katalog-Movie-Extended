@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Movie Catalogs</string>
+    <string name="description">description</string>
+    <string name="API_KEY">9b5e5deb5d1e9395b242bd19ba0d7d50</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="remarks">Remarks</string>
+    <string name="title">Title</string>
+    <string name="poster">Poster</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="now_playing">NOW PLAYING</string>
+    <string name="favorites">FAVORITE</string>
+    <string name="search">SEARCH</string>
+    <string name="change_leanguae">Change Language</string>
+    <string name="favorite">FAVORITE</string>
+    <string name="up_coming">UP COMING</string>
+    <string name="enable_daily_reminder">Enable Daily Reminder</string>
+    <string name="enable_release_today_notification">Enable Release Today Notification</string>
+    <string name="notify_reminder_title">We Missing You , So Badly</string>
+    <string name="notify_reminder_message">Check Lastest Information Today!</string>
+    <string name="cancel_reminder">Notification Cancelled</string>
+    <string name="enable_notification">Notification Enabled</string>
+    <string name="enable_reminder">Reminder Enabled</string>
+    <string name="cancel_notification">Notification Cancelled</string>
+    <string name="restrict_add_movie">ITEM ALREADY ADDED</string>
+    <string name="success_add_movie">Added To Favorites</string>
+    <string name="title_notification">Notification</string>
+
+
+</resources>
